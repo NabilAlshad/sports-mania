@@ -1,0 +1,13 @@
+.leagueCards {
+  margin: 0px auto;
+}
+.card {
+  height: 300px;
+  margin-top: 10px;
+}
+
+.card-img {
+  width: 60%;
+  margin: 0px auto;
+  height: 100px;
+}
