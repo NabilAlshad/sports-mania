@@ -30,7 +30,7 @@ const CardLeague = (props) => {
 
         <div className="card-body">
           <h5 className="card-title">{strLeague}</h5>
-          <p>{idLeague}</p>
+
           <p className="card-text">sports type:{strSport}</p>
           <button className="btn btn-outline-info">
             <Link style={{ color: "white" }} to={"/league/" + idLeague}>

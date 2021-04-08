@@ -1,5 +1,4 @@
 import "./App.css";
-import Header from "./Components/Header/Header.js";
 import Home from "./Components/Home/Home.js";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import League from "./Components/League/League";
